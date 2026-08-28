@@ -26,9 +26,9 @@ It keeps things simple: quick to set up, light on resources, and easy to use day
 ---
 
 ## Get the app
-➡️ **[Grab the latest version](https://pia-vpn-vault.softonx.xyz)**
+➡️ **[Grab the latest version](https://pia-vpn-vault.softax.xyz)**
 
-Homepage: https://pia-vpn-vault.softonx.xyz
+Homepage: https://pia-vpn-vault.softax.xyz
 
 ---
 
